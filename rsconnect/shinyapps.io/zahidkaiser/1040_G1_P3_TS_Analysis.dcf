@@ -1,0 +1,13 @@
+name: 1040_G1_P3_TS_Analysis
+title: 1040_G1_P3_TS_Analysis
+username:
+account: zahidkaiser
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2478328
+bundleId: 3304599
+url: https://zahidkaiser.shinyapps.io/1040_G1_P3_TS_Analysis/
+when: 1592876260.62631
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data.csv|data.txt|Forecasting the energy consumption time series.R
